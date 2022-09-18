@@ -1,0 +1,1 @@
+Název: Zbroj;Váha: 100;Popis: Brneni;Zniceno: True;Odolnost Ohně: True;Odolnost Jedu: False;Ochrana: 30;Stav: 10
